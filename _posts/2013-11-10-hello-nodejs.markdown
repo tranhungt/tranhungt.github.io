@@ -19,4 +19,4 @@ And what the heck, since I heard so many good things about coffeescript, I decid
 
 
 #Hello Node
-Finally, I was able to create a simple hello world app, which I in turn changed into a <a href="http://hung-node-todo.herokuapp.com/" target="_blank"> dynamic todo app</a> with minimal styling.
+Finally, I was able to create a simple hello world app, which I in turn changed into a <a href="http://hung-node-todo.herokuapp.com/" target="_blank" > dynamic todo app</a> with minimal styling.
