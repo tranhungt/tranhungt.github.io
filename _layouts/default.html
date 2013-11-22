@@ -17,8 +17,8 @@
 
         <div class="site">
           <div class="header">
-            <h1 class="title"><a id="home" href="/">{{ site.name }}</a></h1>
-            <a class="extra" id="home" href="/blog.html">home</a>
+            <h1 class="title home_link"><a id="home1" href="/">{{ site.name }}</a></h1>
+            <a class="extra home_link" id="home" href="/blog.html">home</a>
           </div>
 
           {{ content }}
@@ -51,7 +51,7 @@
         var href = $(evt.target).attr('href');
         $("#blog_container").load(href);
     })
-    $("a").click("#home", function(evt){
+    $(".home_link").click(function(evt){
       evt = evt;
       console.log(evt)
         evt.preventDefault();
