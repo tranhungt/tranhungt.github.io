@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quick Thoughts"
+title:  "Quick Thoughts - Why I work in Tech"
 date:   2013-11-23 17:32:55
 categories: jekyll update
 ---
