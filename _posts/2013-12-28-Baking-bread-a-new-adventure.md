@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Baking Bread - A New Adventure"
-date:   2013-12-28 17:32:55
-categories: jekyll update
+date:   2013-12-28
+categories: Personal
 ---
 
  I love driving stick shift. I love tinkering with my bicycle. And I love sharpening my kitchen knives on a whetstone. There's a certain gratification I get when working with my hands and getting physically involved in the process. It gives me an intimate connection with the world and the pleasure of having direct control over the results. 

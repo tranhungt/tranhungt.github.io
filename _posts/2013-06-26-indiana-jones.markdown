@@ -2,7 +2,7 @@
 layout: post
 title:  "Indiana Jones and the Knapsack Problem"
 date:   2013-06-26 17:32:55
-categories: jekyll update
+categories: Tech
 ---
 If Indiana Jones was escaping a collapsing treasure dungeon with a limited capacity knapsack, how would he decide what to take with him?
 

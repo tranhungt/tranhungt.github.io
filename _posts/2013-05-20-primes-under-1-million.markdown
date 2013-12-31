@@ -2,7 +2,7 @@
 layout: post
 title:  "Primes Under 1 Million"
 date:   2013-05-20 17:32:55
-categories: jekyll update
+categories: Tech
 ---
 
 Finding all primes under 1 million. Sounds easy…but maybe a little more demanding than it appears. Depending on the algorithm, all the primes may or may not be generated in a timely manner. Generally, a number n is checked for primality by iterating through all the numbers from 1 to n, and see if n divides into each value evenly. That would take very very long time. A better way is to only check for values from 1 to squrt(n), since mathematically, the range between from squrt(n) to n is just a repeat of the first half in terms of divisibility.

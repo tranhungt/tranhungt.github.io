@@ -2,7 +2,7 @@
 layout: post
 title:  "TDD For Fun"
 date:   2013-11-21 17:32:55
-categories: jekyll update
+categories: Tech
 ---
 
 Writing tests is important. Though, there's a difference between writing tests first and writing tests afterwards to cover your bases.

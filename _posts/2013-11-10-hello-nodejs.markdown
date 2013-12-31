@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello Nodejs"
 date:   2013-11-10 17:32:55
-categories: jekyll update
+categories: Tech
 ---
 
 In my spare time, I love learning new technology and figuring out new methodologies to do something. Doing this helps me build a better understanding of how things work and allows me to solve new problems.

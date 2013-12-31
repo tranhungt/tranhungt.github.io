@@ -2,7 +2,7 @@
 layout: post
 title:  "Quick Thoughts - Why I work in Tech"
 date:   2013-11-23 17:32:55
-categories: jekyll update
+categories: Personal
 ---
 
 I really like just learning new things and solving problems. One of the things I like about technology is that I can just learn anything from anywhere and apply that knowledge to new problems and solve it. I love working on puzzles and solving new problems. It helps me think of new ways to approach a problem. I think everything in life is very similar. Nothing is ever the same, so we always have to find ways and learn skills to approach something new. There’s not a secret answer, and there’s no one right solution to everything. I wish I learned earlier that life is all a big experiment and a collection of experiences. We go through life so we can learn and grow and live a fuller life.
